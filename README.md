@@ -1,2 +1,2 @@
-# C-talogo-de-jogo
+# Catalogo-de-jogo
 Independence Injector - boas praticas de arquitetura
